@@ -1,4 +1,4 @@
-
+Clone this if you want start your own extension of the study guide. 
 # 168_Midterm_Resources
 
 
